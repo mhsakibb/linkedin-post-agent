@@ -53,3 +53,5 @@ if st.button("Generate Post"):
     st.subheader("Generated LinkedIn Post")
 
     st.write(response.content)
+
+    #python -m streamlit run app.py
