@@ -18,6 +18,10 @@ The application provides a simple web interface where users can enter a topic, c
 - **Structured Content:** Prompts the model to include an engaging hook, 2–4 paragraphs, a closing question, and five relevant hashtags.
 - **Interactive Web Interface:** Generate posts through a simple Streamlit application.
 
+## Application Preview
+
+![LinkedIn Post Generator AI Agent](linkedin-agent.png)
+
 ## Tech Stack
 
 - **Programming Language:** Python

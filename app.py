@@ -54,4 +54,3 @@ if st.button("Generate Post"):
 
     st.write(response.content)
 
-    #python -m streamlit run app.py
